@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alshafaee</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Software Engineering , looking for a junior Front-End, Back-End, Full-Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alshafaeeahmed&label=Profile%20views&color=0e75b6&style=flat" alt="alshafaeeahmed" /> </p>
 
